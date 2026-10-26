@@ -1,0 +1,13 @@
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "energy-graph-prototype"
+version = "0.1.0"
+description = "Pierwszy etap prototypu: opis sieci -> walidowany graf JSON"
+requires-python = ">=3.10"
+dependencies = ["pydantic>=2,<3"]
+
+[tool.setuptools]
+packages = ["energy_graph"]

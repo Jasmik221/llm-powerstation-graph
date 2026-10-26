@@ -1,0 +1,4 @@
+Szyna B1 ma napięcie 110 kV.
+Szyna B2 ma napięcie 110 kV.
+Szyna B1 jest połączona linią L1 z szyną B2 o długości 10 km.
+Do szyny B2 podłączono odbiór O1 o mocy 20 MW.
